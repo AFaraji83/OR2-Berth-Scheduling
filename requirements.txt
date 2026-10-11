@@ -1,0 +1,9 @@
+pyomo>=6.7
+highspy
+gurobipy
+pandas
+openpyxl
+numpy
+matplotlib
+seaborn
+jupyter
